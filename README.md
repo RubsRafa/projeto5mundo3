@@ -1,4 +1,4 @@
-# Cadastro System - Servidor e Cliente Assíncrono
+# Sistema de Cadastro - Servidor e Cliente Assíncrono
 
 Este projeto consiste em um sistema de cadastro de produtos com comunicação entre cliente e servidor, implementado em Java. O sistema oferece funcionalidades de login, listagem de produtos, entrada e saída de produtos no estoque. O servidor utiliza threads para responder a múltiplas conexões de forma assíncrona. A comunicação entre o cliente e o servidor ocorre por meio de sockets e objetos serializados.
 
