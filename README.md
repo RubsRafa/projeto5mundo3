@@ -2,7 +2,7 @@
 
 Este projeto consiste em um sistema de cadastro de produtos com comunicação entre cliente e servidor, implementado em Java. O sistema oferece funcionalidades de login, listagem de produtos, entrada e saída de produtos no estoque. O servidor utiliza threads para responder a múltiplas conexões de forma assíncrona. A comunicação entre o cliente e o servidor ocorre por meio de sockets e objetos serializados.
 
-O [relatório de práticas](https://github.com/user-attachments/files/17788763/projeto5mundo3.pdf.pdf) foi confeccionado em formato PDF e produzido em conjunto com o desenvolvimento do projeto. O relatório também está disponível [via web](https://docs.google.com/presentation/d/1t_4H5_nxv9f1gfibxAW2UkW1gZIl3dxpLMXvMWMpVFo/edit#slide=id.g4dfce81f19_0_45), para visualização dos GIFS, que apresentam os testes feitos.
+O [relatório de práticas](https://github.com/user-attachments/files/17788763/projeto5mundo3.pdf.pdf) foi confeccionado em formato PDF e produzido em conjunto com o desenvolvimento do projeto. O relatório também está disponível [via web]([https://docs.google.com/presentation/d/1t_4H5_nxv9f1gfibxAW2UkW1gZIl3dxpLMXvMWMpVFo/edit#slide=id.g4dfce81f19_0_45](https://docs.google.com/presentation/d/1t_4H5_nxv9f1gfibxAW2UkW1gZIl3dxpLMXvMWMpVFo/edit?usp=sharing)), para visualização dos GIFS, que apresentam os testes feitos.
 
 ## Funcionalidades
 - **Login**: O cliente se autentica com login e senha. Caso as credenciais sejam válidas, o cliente pode realizar operações no sistema.
